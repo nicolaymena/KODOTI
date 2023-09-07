@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yjY715Q7Q8eOVfkzJbgjfPg+BHFbiYqbAB2AM0AIINxYVg0DOYRkMnrbyK1NZL2kEaTJBfM4Sbj7vewkKXL04g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikol\\Downloads\\KODOTI.Commerce\\KODOTI.Commerce\\src\\Common\\Common.Logging\\Common.Logging.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikol\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.1\\microsoft.extensions.logging.abstractions.3.1.1.nupkg.sha512",
+    "C:\\Users\\nikol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

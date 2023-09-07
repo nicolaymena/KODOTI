@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fAjgaim5GbLj/ZOWvFwKyTe+HC9C5u8+D436EYtMm1J27iUXGV3B7tVV2+gNC7Ul1UnaEdUUvvBpEu+C+cD4Fg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikol\\Downloads\\KODOTI.Commerce\\KODOTI.Commerce\\src\\Services\\Customer\\Customer.Domain\\Customer.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
