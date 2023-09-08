@@ -1,31 +1,32 @@
-# Microservicios con ASP.NET Core 3
+# Microservices with ASP.NET Core 3
 
-Este proyecto se enfoca en la implementación de una arquitectura de microservicios utilizando ASP.NET Core 3 y otras tecnologías clave. A continuación, se describen los aspectos más destacados:
+This project focuses on implementing a microservices architecture using ASP.NET Core 3 and other key technologies. Below are the highlights:
 
-## Características
+## Features
 
-- **Patrón CQRS:** Implementación del patrón Command Query Responsibility Segregation (CQRS) para separar las operaciones de escritura y lectura.
+- **CQRS Pattern:** Implementation of the Command Query Responsibility Segregation (CQRS) pattern to separate write and read operations.
 
-- **Pruebas Unitarias:** Enfoque en pruebas unitarias para garantizar la calidad del código.
+- **Unit Testing:** Emphasis on unit testing to ensure code quality.
 
-- **Autenticación basada en Token (Jwt):** Implementación de autenticación segura utilizando tokens JWT (JSON Web Tokens).
+- **Token-Based Authentication (JWT):** Secure authentication implementation using JSON Web Tokens (JWT).
 
-- **API Gateway:** Exploración de la implementación de un API Gateway para administrar y dirigir las solicitudes de los microservicios.
+- **API Gateway:** Exploration of implementing an API Gateway to manage and route requests to microservices.
 
-## Requisitos
+## Requirements
 
-- Conocimientos en .NET Core y desarrollo de APIs.
+- Proficiency in .NET Core and API development.
 
-## Descripción
+## Description
 
-Este proyecto se centra en la implementación de una arquitectura de microservicios utilizando ASP.NET Core 3, CQRS, pruebas unitarias y autenticación basada en tokens JWT. También se explora la implementación de un API Gateway para administrar las solicitudes a los microservicios.
+This project centers around the implementation of a microservices architecture using ASP.NET Core 3, CQRS, unit testing, and JWT-based authentication. It also explores the implementation of an API Gateway for managing requests to the microservices.
 
-## Inicio Rápido
+## Getting Started
 
-Para comenzar, clona este repositorio y sigue las instrucciones de instalación en el archivo [INSTALACIÓN.md](./INSTALACIÓN.md).
+To get started, clone this repository and follow the installation instructions in the [INSTALLATION.md](./INSTALLATION.md) file.
 
-## Contribuciones
+## Contributions
 
-Las contribuciones son bienvenidas. Si deseas contribuir a este proyecto, sigue estas pautas en nuestra [Guía de Contribución](./CONTRIBUCIÓN.md).
+Contributions are welcome. If you'd like to contribute to this project, please follow the guidelines in our [Contribution Guide](./CONTRIBUTING.md).
+
 
 
